@@ -1,4 +1,4 @@
-# GCP Terraform templates
+# AWS Terraform templates
 
 A collection of useful templates for AWS to help bootstraping projects and creating resources
 

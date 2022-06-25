@@ -9,3 +9,5 @@ A collection of useful templates for AWS to help bootstraping projects and creat
 4. Public subnet with internet gateway, DMZ security group, internet gateway, route to internet, NAT gateway, bastion host
 5. Private subnet
 6. NACL for public to deny all but HTTPS(S), SSH and ephermeral ports
+7. VPC endpoints - interface and gateway, PrivateLink
+8. CodeArtifact

@@ -11,3 +11,8 @@ A collection of useful templates for AWS to help bootstraping projects and creat
 6. NACL for public to deny all but HTTPS(S), SSH and ephermeral ports
 7. VPC endpoints - interface and gateway, PrivateLink
 8. CodeArtifact
+9. CodeCommit
+10. Bottlerocket for EKS
+
+Make a AWS helper repo with a script for setting up CodeCommit and connecting Docker to ECR
+

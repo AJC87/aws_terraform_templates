@@ -1,5 +1,7 @@
 # AWS Terraform templates
 
+`terraform apply -auto-approve`
+
 A collection of useful templates for AWS to help bootstraping projects and creating resources
 
 **TODO**
@@ -13,6 +15,6 @@ A collection of useful templates for AWS to help bootstraping projects and creat
 8. CodeArtifact
 9. CodeCommit
 10. Bottlerocket for EKS
+11. Maybe get trust policy from helper repo
 
 Make a AWS helper repo with a script for setting up CodeCommit and connecting Docker to ECR
-
